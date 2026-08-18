@@ -10,5 +10,3 @@ I'm a first-year CS student at University College Leuven-Limburg (UCLL), in Belg
 **Frameworks & Tools:** Spring Boot, JPA, Git  
 **Infrastructure & OS:** NixOS, Linux, Cisco Networking  
 **Databases:** PostgreSQL  
-
-![Matei's GitHub stats](https://github-readme-stats-orcin-kappa-17.vercel.app/api?username=Matei-Gatin)

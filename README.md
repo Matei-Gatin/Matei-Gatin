@@ -25,4 +25,4 @@ I actively contribute to enterprise-grade tools and systems, focusing on securit
 ### 📚 Currently Learning
 * Advanced database engineering
 * Algorithmic problem solving and data structures in C++
-* Computer networking and routing protocols
+* Computer systems and networking

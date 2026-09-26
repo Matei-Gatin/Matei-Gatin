@@ -12,7 +12,7 @@ I'm a second-year CS student at University College Leuven-Limburg (UCLL), in Bel
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 🚀 Notable Open-Source Contributions
+### 🚀 Open-Source Contributions
 I actively contribute to enterprise-grade tools and systems, focusing on security, concurrency, and infrastructure.
 
 * **[WildFly Elytron](https://github.com/wildfly-security/wildfly-elytron) (Red Hat / JBoss):**

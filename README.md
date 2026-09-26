@@ -23,6 +23,6 @@ I actively contribute to enterprise-grade tools and systems, focusing on securit
   * Improved Kubernetes deployment flexibility by adding `imagePullPolicy` support to the DebeziumServer CRD (#1591).
 
 ### 📚 Currently Learning
-* Advanced database engineering (DuckDB, B-trees, clustered indexes, atomic file replacements)
+* Advanced database engineering
 * Algorithmic problem solving and data structures in C++
 * Computer networking and routing protocols

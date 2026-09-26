@@ -17,7 +17,7 @@ I actively contribute to enterprise-grade tools and systems, focusing on securit
 
 * **[WildFly Elytron](https://github.com/wildfly-security/wildfly-elytron) (Red Hat / JBoss):**
   * Prevented race conditions in SSL socket handling by improving the thread safety of `AbstractDelegatingSSLServerSocket` (ELY-2549).
-  * Designed and implemented automatic public-key rotation for `JwtValidator` with a configured JKU fallback (ELY-2911, *under review*).
+  * Designed and implemented automatic public-key rotation for `JwtValidator` with a configured JKU fallback (ELY-2911).
   * Integrated a dedicated JDK 21 testsuite for targeted testing on modern environments (ELY-2733).
 * **[Debezium](https://github.com/debezium/debezium) (Change Data Capture):**
   * Improved Kubernetes deployment flexibility by adding `imagePullPolicy` support to the DebeziumServer CRD (#1591).

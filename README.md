@@ -21,8 +21,3 @@ I actively contribute to enterprise-grade tools and systems, focusing on securit
   * Integrated a dedicated JDK 21 testsuite for targeted testing on modern environments (ELY-2733).
 * **[Debezium](https://github.com/debezium/debezium) (Change Data Capture):**
   * Improved Kubernetes deployment flexibility by adding `imagePullPolicy` support to the DebeziumServer CRD (#1591).
-
-### 📚 Currently Learning
-* Advanced database engineering
-* Algorithmic problem solving and data structures in C++
-* Computer systems and networking
